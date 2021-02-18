@@ -11,7 +11,7 @@ read the current description. It seems that it could change in time.
 If you are still integersted, I invite you to read the following post
 in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/18/making-a-larger-island-java/
 
 I describe my approach and implementation.
 
